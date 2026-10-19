@@ -1,0 +1,6 @@
+services:
+  - type: web
+    runtime: static
+    name: t17-estuda
+    buildCommand: "true"
+    staticPublishPath: dist
